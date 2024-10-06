@@ -1,0 +1,41 @@
+D:\Blood Bank Management System Project\Project\SE BBMS\SE BBMS\bin\Debug\SE BBMS.exe.config
+D:\Blood Bank Management System Project\Project\SE BBMS\SE BBMS\bin\Debug\SE BBMS.exe
+D:\Blood Bank Management System Project\Project\SE BBMS\SE BBMS\bin\Debug\SE BBMS.pdb
+D:\Blood Bank Management System Project\Project\SE BBMS\SE BBMS\obj\Debug\SE BBMS.csprojAssemblyReference.cache
+D:\Blood Bank Management System Project\Project\SE BBMS\SE BBMS\obj\Debug\SE_BBMS.Form1.resources
+D:\Blood Bank Management System Project\Project\SE BBMS\SE BBMS\obj\Debug\SE_BBMS.Properties.Resources.resources
+D:\Blood Bank Management System Project\Project\SE BBMS\SE BBMS\obj\Debug\SE BBMS.csproj.GenerateResource.cache
+D:\Blood Bank Management System Project\Project\SE BBMS\SE BBMS\obj\Debug\SE BBMS.csproj.CoreCompileInputs.cache
+D:\Blood Bank Management System Project\Project\SE BBMS\SE BBMS\obj\Debug\SE BBMS.exe
+D:\Blood Bank Management System Project\Project\SE BBMS\SE BBMS\obj\Debug\SE BBMS.pdb
+D:\Blood Bank Management System Project\Project\SE BBMS\SE BBMS\obj\Debug\SE_BBMS.Form2.resources
+D:\Blood Bank Management System Project\Project\SE BBMS\SE BBMS\bin\Debug\MySql.Data.dll
+D:\Blood Bank Management System Project\Project\SE BBMS\SE BBMS\bin\Debug\Google.Protobuf.dll
+D:\Blood Bank Management System Project\Project\SE BBMS\SE BBMS\bin\Debug\Zstandard.Net.dll
+D:\Blood Bank Management System Project\Project\SE BBMS\SE BBMS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Blood Bank Management System Project\Project\SE BBMS\SE BBMS\bin\Debug\BouncyCastle.Crypto.dll
+D:\Blood Bank Management System Project\Project\SE BBMS\SE BBMS\bin\Debug\Ubiety.Dns.Core.dll
+D:\Blood Bank Management System Project\Project\SE BBMS\SE BBMS\bin\Debug\Renci.SshNet.dll
+D:\Blood Bank Management System Project\Project\SE BBMS\SE BBMS\bin\Debug\System.Memory.dll
+D:\Blood Bank Management System Project\Project\SE BBMS\SE BBMS\bin\Debug\System.Buffers.dll
+D:\Blood Bank Management System Project\Project\SE BBMS\SE BBMS\bin\Debug\K4os.Compression.LZ4.dll
+D:\Blood Bank Management System Project\Project\SE BBMS\SE BBMS\bin\Debug\K4os.Hash.xxHash.dll
+D:\Blood Bank Management System Project\Project\SE BBMS\SE BBMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Blood Bank Management System Project\Project\SE BBMS\SE BBMS\bin\Debug\MySql.Data.xml
+D:\Blood Bank Management System Project\Project\SE BBMS\SE BBMS\obj\Debug\SE BBMS.exe.config
+D:\Blood Bank Management System Project\Project\SE BBMS\SE BBMS\obj\Debug\SE BBMS.csproj.CopyComplete
+D:\Blood Bank Management System Project\Project\SE BBMS\SE BBMS\obj\Debug\SE_BBMS.newdonor.resources
+D:\Blood Bank Management System Project\Project\SE BBMS\SE BBMS\obj\Debug\SE_BBMS.updatedonor.resources
+D:\Blood Bank Management System Project\Project\SE BBMS\SE BBMS\obj\Debug\SE_BBMS.alldonordetails.resources
+D:\Blood Bank Management System Project\Project\SE BBMS\SE BBMS\obj\Debug\SE_BBMS.sbloodgroup.resources
+D:\Blood Bank Management System Project\Project\SE BBMS\SE BBMS\obj\Debug\SE_BBMS.slocation.resources
+D:\Blood Bank Management System Project\Project\SE BBMS\SE BBMS\obj\Debug\SE_BBMS.stockin.resources
+D:\Blood Bank Management System Project\Project\SE BBMS\SE BBMS\obj\Debug\SE_BBMS.stockdec.resources
+D:\Blood Bank Management System Project\Project\SE BBMS\SE BBMS\obj\Debug\SE_BBMS.stockdetails.resources
+D:\Blood Bank Management System Project\Project\SE BBMS\SE BBMS\obj\Debug\SE_BBMS.deletedonor.resources
+D:\Blood Bank Management System Project\Project\SE BBMS\SE BBMS\obj\Debug\SE_BBMS.about.resources
+D:\0011\Second Year\4th Semister\02.Software Engineering\Project\SE Group 04 Blood Bank Management System Project\SE Group 04 Blood Bank Management System Project\Project\SE BBMS\SE BBMS\obj\Debug\SE BBMS.csproj.AssemblyReference.cache
+D:\0011\Second Year\4th Semister\02.Software Engineering\Project\SE Group 04 Blood Bank Management System Project\SE Group 04 Blood Bank Management System Project\Project\SE BBMS\SE BBMS\obj\Debug\SE BBMS.csproj.SuggestedBindingRedirects.cache
+D:\0011\Second Year\4th Semister\02.Software Engineering\Project\SE Group 04 Blood Bank Management System Project\SE Group 04 Blood Bank Management System Project\Project\SE BBMS\SE BBMS\obj\Debug\SE BBMS.exe.config
+D:\0011\Second Year\4th Semister\02.Software Engineering\Project\SE Group 04 Blood Bank Management System Project\SE Group 04 Blood Bank Management System Project\Project\SE BBMS\SE BBMS\obj\Debug\SE BBMS.exe
+D:\0011\Second Year\4th Semister\02.Software Engineering\Project\SE Group 04 Blood Bank Management System Project\SE Group 04 Blood Bank Management System Project\Project\SE BBMS\SE BBMS\obj\Debug\SE BBMS.pdb
